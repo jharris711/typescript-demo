@@ -3,7 +3,7 @@
 ### Clone the repo and change into the maps directory:
 
 ```bash
-clone https://github.com/jharris711/typescript-demo.git && cd maps
+git clone https://github.com/jharris711/typescript-demo.git && cd typescript-demo/maps
 ```
 
 ### Install the dependencies:
